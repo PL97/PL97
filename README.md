@@ -12,7 +12,7 @@ I am currently a fourth-year Ph.D. student at UMN
 
 ```python
 class Me(Human):
-  def __init__():
+  def __init__(self):
     self.pronouns = "He" | "Him",
     self.name = "Le Peng"
     self.code = ["Python", "C++", "Java"]
