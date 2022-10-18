@@ -17,7 +17,7 @@ class Me(Human):
     self.name = "Le Peng"
     self.code = ["Python", "C++", "Java"]
     self.research_interest = {
-        "Fundational_ML": ["Imbalanced Learning", "Transfer Learning"],
+        "Foundational ML": ["Imbalanced Learning", "Transfer Learning"],
         "HealthCare": ["Federated Learnig", "Medical Imaging"]
     }
 ```
