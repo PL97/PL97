@@ -7,7 +7,8 @@ I am currently a fourth year Ph.D. student at UMN
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://sites.google.com/view/le-peng/home)
 
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+### <img src="https://media4.giphy.com/media/Dk57URqjqjHjNGHeMV/giphy.gif?cid=ecf05e47aimyszq9l3l6f697zbir65pd1escz3qdzjav4n87&rid=giphy.gif&ct=g" width="50"/> A little more about me...  
 
 ```python
 class Me(Human):
@@ -20,6 +21,18 @@ class Me(Human):
         "HealthCare": ["Federated Learnig", "Medical Imaging"]
     }
 ```
+<img align='right' src="pang.jpeg" width="150">
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About my cat...
+Checkout my cat, and find her on Instagram 
+<i class="fa fa-instagram" aria-hidden="true"></i>
+
+:stuck_out_tongue_winking_eye: 
+
+
+
+
+
 
 ---
 <!--START_SECTION:waka-->
@@ -49,9 +62,3 @@ class Me(Human):
 <!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NjU1ODI4OCwtMTU1MDQ0NTAwOSwtMT
-YyMTcyNTA5XX0=
--->
