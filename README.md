@@ -1,5 +1,5 @@
 ## Hello, I'm Le! 
-I am currently a fourth year Ph.D. student at UMN
+I am currently a fourth-year Ph.D. student at UMN
 </a><img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230"> 
 </em></p>
 
@@ -25,9 +25,11 @@ class Me(Human):
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About my cat...
 Checkout my cat, and find her on Instagram 
-<i class="fa fa-instagram" aria-hidden="true"></i>
 
-:stuck_out_tongue_winking_eye: 
+
+:stuck_out_tongue_winking_eye:  [![<i class="fa fa-instagram" aria-hidden="true"></i>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zuipang_pangzi/?hl=en)
+
+
 
 
 
