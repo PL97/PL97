@@ -50,7 +50,7 @@ Checkout my cat, and find her on Instagram
  > 
 > 📦 171.8 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
+> :wave: open for intern
  > 
 > 📜 20 Public Repositories 
  > 
