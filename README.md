@@ -13,7 +13,7 @@ I am currently a fourth-year Ph.D. student at UMN
 ```python
 class Me(Human):
   def __init__():
-    pronouns = "He" | "Him",
+    self.pronouns = "He" | "Him",
     self.name = "Le Peng"
     self.code = ["Python", "C++", "Java"]
     self.research_interest = {
