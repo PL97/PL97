@@ -56,6 +56,13 @@ Checkout my cat, and find her on Instagram
  > 
 > 🔑 23 Private Repositories  
  > 
+ 
+### Github Stats
+[![Le Peng's github stats](https://github-readme-stats.vercel.app/api?username=PL97&count_private=true&theme=tokyonight&hide=contribs,prs)](#)
+
+#### Most Used Language
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PL97&layout=compact)](#)
 
 #### Profile Visits 
 
