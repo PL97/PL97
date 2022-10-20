@@ -38,25 +38,8 @@ Checkout my cat, and find her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C002%20hrs%2026%20mins-blue)
+<!--END_SECTION:waka-->
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1160-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 643 Contributions in the Year 2022
- > 
-> 📦 171.8 kB Used in GitHub's Storage 
- > 
-> :wave: open for intern
- > 
-> 📜 20 Public Repositories 
- > 
-> 🔑 23 Private Repositories  
- > 
- 
 ### Github Stats
 [![Le Peng's github stats](https://github-readme-stats.vercel.app/api?username=PL97&count_private=true&theme=tokyonight&hide=contribs,prs)](#)
 
@@ -67,16 +50,5 @@ Checkout my cat, and find her on Instagram
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PL97.PL97)
-
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-
- Last Updated on 18/10/2022 02:47:02 UTC
-<!--END_SECTION:waka-->
 
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
