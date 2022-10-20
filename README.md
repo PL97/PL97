@@ -43,6 +43,9 @@ Checkout my cat, and find her on Instagram
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PL97&show_icons=true&theme=radical)
 
+### Coding Preference
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PL97&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=PL97.PL97)
