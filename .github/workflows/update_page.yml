@@ -15,6 +15,8 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME }}
           GH_TOKEN: ${{ secrets.WAKATIME_GH_KEY }}
+          SHOW_OS: "False"
+          COMMIT_BY_ME: "True"
           SHOW_PROJECTS: "False"
           SHOW_LINES_OF_CODE: "True"
           SHOW_LOC_CHART: "False"
