@@ -41,7 +41,7 @@ Checkout my cat, and find her on Instagram
 <!--END_SECTION:waka-->
 
 ### Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PL97&show_icons=true&theme=radical)
 
 #### Profile Visits 
 
