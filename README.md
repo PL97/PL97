@@ -89,8 +89,4 @@ MATLAB                   3 repos             █░░░░░░░░░░�
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PL97&show_icons=true&theme=radical)
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=PL97.PL97)
-
 **These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
