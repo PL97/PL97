@@ -46,9 +46,9 @@ Checkout my cat, and find her on Instagram
 
 **🐱 My GitHub Data** 
 
-> 🏆 96 Contributions in the Year 2022
+> 🏆 88 Contributions in the Year 2022
  > 
-> 📦 223.3 kB Used in GitHub's Storage 
+> 📦 224.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -84,7 +84,7 @@ MATLAB                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 21/10/2022 10:03:10 UTC
+ Last Updated on 21/10/2022 10:41:52 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
