@@ -38,48 +38,27 @@ Checkout my cat, and find her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%20hr%2025%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-323-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 74 Contributions in the Year 2022
+> 🏆 81 Contributions in the Year 2022
  > 
 > 📦 222.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 38 Public Repositories 
+> 📜 39 Public Repositories 
  > 
 > 🔑 10 Private Repositories  
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.9% 
-🌆 Daytime    70 commits     █████████░░░░░░░░░░░░░░░░   36.46% 
-🌃 Evening    65 commits     ████████░░░░░░░░░░░░░░░░░   33.85% 
-🌙 Night      38 commits     █████░░░░░░░░░░░░░░░░░░░░   19.79%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       28 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
-Tuesday      29 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.1% 
-Wednesday    37 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.27% 
-Thursday     46 commits     ██████░░░░░░░░░░░░░░░░░░░   23.96% 
-Friday       18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Saturday     17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85% 
-Sunday       17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.85%
-
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: America/Rankin_Inlet
-
 💬 Programming Languages: 
 No Activity Tracked This Week
 
@@ -103,12 +82,8 @@ MATLAB                   3 repos             █░░░░░░░░░░�
 ```
 
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/PL97/PL97/main/charts/bar_graph.png) 
-
-
- Last Updated on 21/10/2022 04:54:40 UTC
+ Last Updated on 21/10/2022 05:24:19 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
