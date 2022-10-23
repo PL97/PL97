@@ -38,7 +38,7 @@ Checkout my cat, and find her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-13%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-14%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-351-blue)
 
@@ -48,7 +48,7 @@ Checkout my cat, and find her on Instagram
 
 > 🏆 107 Contributions in the Year 2022
  > 
-> 📦 229.6 kB Used in GitHub's Storage 
+> 📦 229.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,7 +87,7 @@ MATLAB                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/10/2022 21:26:10 UTC
+ Last Updated on 23/10/2022 21:45:58 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
