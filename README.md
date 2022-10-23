@@ -38,7 +38,7 @@ Checkout my cat, and find her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-7%20hrs%2056%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-348-blue)
 
@@ -87,7 +87,7 @@ MATLAB                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 23/10/2022 04:46:51 UTC
+ Last Updated on 23/10/2022 05:40:08 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
