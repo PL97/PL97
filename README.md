@@ -4,7 +4,7 @@ I am currently a fourth-year Ph.D. student at University of Minnesota, Twin City
 </em></p>
 
 [![Linkedin: le-Peng](https://img.shields.io/badge/-lepeng-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/anmol-p-singh/](https://www.linkedin.com/in/le-peng-98668b204/))](https://www.linkedin.com/in/le-peng-98668b204/)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://sites.google.com/view/le-peng/home)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://pl97.github.io/)
 
 
 
