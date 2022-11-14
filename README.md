@@ -46,15 +46,15 @@ Checkout my cat, and find her on Instagram
 
 **🐱 My GitHub Data** 
 
-> 🏆 212 Contributions in the Year 2022
+> 🏆 146 Contributions in the Year 2022
  > 
 > 📦 238.7 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 40 Public Repositories 
+> 📜 39 Public Repositories 
  > 
-> 🔑 10 Private Repositories  
+> 🔑 11 Private Repositories  
  > 
 📊 **This Week I Spent My Time On** 
 
@@ -87,7 +87,7 @@ MATLAB                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 13/11/2022 18:48:45 UTC
+ Last Updated on 14/11/2022 18:49:48 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
