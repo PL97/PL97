@@ -23,7 +23,7 @@ class Me(Human):
 ```
 <img align='right' src="pang.jpeg" width="150">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">  About my cat...
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" herf="https://www.instagram.com/zuipang_pangzi/?hl=en">  About my cat...
 Checkout my cat, and find her on Instagram 
 
 
