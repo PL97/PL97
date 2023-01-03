@@ -38,7 +38,7 @@ Checkout my cat, and find her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-170%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-177%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -46,9 +46,9 @@ Checkout my cat, and find her on Instagram
 
 **🐱 My GitHub Data** 
 
-> 🏆 5 Contributions in the Year 2023
+> 🏆 11 Contributions in the Year 2023
  > 
-> 📦 258.4 kB Used in GitHub's Storage 
+> 📦 258.8 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -56,6 +56,35 @@ Checkout my cat, and find her on Instagram
  > 
 > 🔑 10 Private Repositories  
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    47 commits     ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.91% 
+🌆 Daytime    135 commits    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   39.94% 
+🌃 Evening    84 commits     ⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.85% 
+🌙 Night      72 commits     ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   21.3%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   12 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   86.39% 
+Bash                     1 hr 35 mins        ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.84% 
+Git Config               15 mins             ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   1.76% 
+Other                    5 mins              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.66% 
+Text                     1 min               ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   0.19%
+
+🔥 Editors: 
+VS Code                  14 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+
+💻 Operating System: 
+Linux                    14 hrs 45 mins      ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.0%
+
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -69,7 +98,7 @@ MATLAB                   3 repos             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 02/01/2023 18:42:04 UTC
+ Last Updated on 03/01/2023 18:42:38 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
