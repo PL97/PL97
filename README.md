@@ -18,7 +18,7 @@ class Me(Human):
     self.code = ["Python", "C++", "Java"]
     self.research_interest = {
         "Foundational ML": ["Imbalanced Learning", "Transfer Learning", "Doman Adaptation"],
-        "HealthCare": ["Federated Learnig", "Medical Imaging", "Natural Language Analysis"]
+        "HealthCare": ["Federated Learnig", "Medical Imaging Analysis", "Natural Language Processing"]
     }
 ```
 <img align='right' src="pang.jpeg" width="150">
