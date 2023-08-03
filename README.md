@@ -1,5 +1,5 @@
 ## Hello, I'm Le! 
-I am currently a fourth-year Ph.D. student at University of Minnesota, Twin City
+I am a Ph.D. candidate at the University of Minnesota, Twin Cities
 </a><img align='right' src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="230"> 
 </em></p>
 
