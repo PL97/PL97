@@ -18,13 +18,13 @@ class Me(Human):
     self.code = ["Python", "C++", "Java"]
     self.research_interest = {
         "Foundational ML": ["Imbalanced Learning", "Transfer Learning", "Doman Adaptation"],
-        "HealthCare": ["Federated Learnig", "Medical Imaging Analysis", "Natural Language Processing"]
+        "HealthCare": ["FederatedLearning", "Medical Imaging Analysis", "Natural Language Processing"]
     }
 ```
 <img align='right' src="pang.jpeg" width="150">
 
 ### <a href="https://www.instagram.com/zuipang_pangzi/?hl=en"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"></a>  About my cat...
-Checkout my cat, and find her on Instagram 
+Checkout my cat, and follow her on Instagram 
 
 
 :stuck_out_tongue_winking_eye:  [![<i class="fa fa-instagram" aria-hidden="true"></i>](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zuipang_pangzi/?hl=en)
