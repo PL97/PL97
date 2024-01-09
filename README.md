@@ -40,7 +40,7 @@ Checkout my cat, and follow her on Instagram
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-777%20hrs%2023%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.1%20million%20lines%20of%20code-blue)
 
@@ -70,13 +70,14 @@ Checkout my cat, and follow her on Instagram
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   1 hr                ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   99.59 % 
+Text                     0 secs              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.41 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 1 min          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 1 min          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +93,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 08/01/2024 18:36:56 UTC
+ Last Updated on 09/01/2024 18:34:47 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
