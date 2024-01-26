@@ -38,7 +38,7 @@ Checkout my cat, and follow her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-810%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -96,7 +96,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 25/01/2024 18:37:42 UTC
+ Last Updated on 26/01/2024 18:34:34 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
