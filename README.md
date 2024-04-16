@@ -50,9 +50,9 @@ Checkout my cat, and follow her on Instagram
  > 
 > 💼 Opted to Hire
  > 
-> 📜 41 Public Repositories 
+> 📜 40 Public Repositories 
  > 
-> 🔑 15 Private Repositories 
+> 🔑 16 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -90,7 +90,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 15/04/2024 18:35:56 UTC
+ Last Updated on 16/04/2024 18:34:06 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
