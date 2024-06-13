@@ -48,8 +48,6 @@ Checkout my cat, and follow her on Instagram
 
 > 📦 323.9 kB Used in GitHub's Storage 
  > 
-> 🏆 53 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -70,13 +68,13 @@ Checkout my cat, and follow her on Instagram
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    25 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -92,7 +90,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 12/06/2024 18:38:40 UTC
+ Last Updated on 13/06/2024 18:39:13 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
