@@ -38,7 +38,7 @@ Checkout my cat, and follow her on Instagram
 
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-840%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -47,6 +47,8 @@ Checkout my cat, and follow her on Instagram
 **🐱 My GitHub Data** 
 
 > 📦 432.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 78 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -68,14 +70,14 @@ Checkout my cat, and follow her on Instagram
 
 ```text
 💬 Programming Languages: 
-Markdown                 17 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀   82.69 % 
-Other                    3 mins              ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.31 % 
+Markdown                 39 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣀⣀   91.71 % 
+Other                    3 mins              ⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.29 % 
 
 🔥 Editors: 
-VS Code                  20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+VS Code                  43 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 
 💻 Operating System: 
-Linux                    20 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
+Linux                    43 mins             ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -91,7 +93,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/07/2024 18:40:05 UTC
+ Last Updated on 23/07/2024 18:38:06 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
