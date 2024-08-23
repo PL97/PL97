@@ -48,8 +48,6 @@ Checkout my cat, and follow her on Instagram
 
 > 📦 432.5 kB Used in GitHub's Storage 
  > 
-> 🏆 85 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -92,7 +90,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 22/08/2024 18:40:48 UTC
+ Last Updated on 23/08/2024 18:40:20 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
