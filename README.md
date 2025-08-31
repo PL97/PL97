@@ -38,6 +38,8 @@ Checkout my cat, and follow her on Instagram
 
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-843%20hrs%2034%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-14.4%20million%20lines%20of%20code-blue)
@@ -45,8 +47,6 @@ Checkout my cat, and follow her on Instagram
 **🐱 My GitHub Data** 
 
 > 📦 459.8 kB Used in GitHub's Storage 
- > 
-> 🏆 5 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -90,7 +90,7 @@ HTML                     1 repo              ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 
 
 
- Last Updated on 30/08/2025 18:43:34 UTC
+ Last Updated on 31/08/2025 18:44:02 UTC
 <!--END_SECTION:waka-->
 
 ### Github Stats
